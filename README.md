@@ -1,4 +1,4 @@
-# ese123-project
+# ESE 123 - Lab Project: Design, Solder, and Code a Digital Clock
 This is a hardware project from my freshman course at Stony Brook University. I designed, coded, and soldered electrical components to create a functional clock. 
 Course name: ESE 123 - Introduction to Electrical and Computer Engineering (by Prof. David Westerfield)
 There are 2 code files:
